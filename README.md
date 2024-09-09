@@ -5,6 +5,12 @@
 ## Образование
 - Курсы по аналитике данных от ЯндексПрактикум (2024 г.)
 
+## Инструменты и языки
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupiter" width="40" height="40"/>&nbsp;
+
 ## Мои навыки:
 
 - **Обработка данных:** Умею работать с Python и библиотеками, такими как Pandas и NumPy.
